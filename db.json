@@ -5,16 +5,6 @@
       "nome": "João da Silva",
       "email": "joao.silva@example.com",
       "telefone": "(99) 9999-1111",
-      "endereco": {
-        "logradouro": "Rua dos Sonhos",
-        "numero": "456",
-        "complemento": "Casa 2",
-        "bairro": "Jardim das Flores",
-        "cidade": "São Paulo",
-        "estado": "SP",
-        "pais": "Brasil",
-        "cep": "12345-678"
-      },
       "idade": 28,
       "genero": "masculino",
       "ocupacao": "advogado"
@@ -24,16 +14,6 @@
       "nome": "Maria Oliveira",
       "email": "maria.oliveira@example.com",
       "telefone": "(99) 9999-2222",
-      "endereco": {
-        "logradouro": "Avenida Principal",
-        "numero": "789",
-        "complemento": "Loja 3",
-        "bairro": "Centro",
-        "cidade": "Rio de Janeiro",
-        "estado": "RJ",
-        "pais": "Brasil",
-        "cep": "54321-876"
-      },
       "idade": 42,
       "genero": "feminino",
       "ocupacao": "médica"
@@ -43,16 +23,6 @@
       "nome": "Pedro Santos",
       "email": "pedro.santos@example.com",
       "telefone": "(99) 9999-3333",
-      "endereco": {
-        "logradouro": "Rua dos Ipês",
-        "numero": "321",
-        "complemento": "Sala 4",
-        "bairro": "Jardim das Acácias",
-        "cidade": "Belo Horizonte",
-        "estado": "MG",
-        "pais": "Brasil",
-        "cep": "98765-432"
-      },
       "idade": 30,
       "genero": "masculino",
       "ocupacao": "professor"
@@ -62,16 +32,6 @@
       "nome": "Ana Souza",
       "email": "ana.souza@example.com",
       "telefone": "(99) 9999-4444",
-      "endereco": {
-        "logradouro": "Rua das Palmeiras",
-        "numero": "987",
-        "complemento": "",
-        "bairro": "Jardim das Flores",
-        "cidade": "São Paulo",
-        "estado": "SP",
-        "pais": "Brasil",
-        "cep": "12345-678"
-      },
       "idade": 25,
       "genero": "feminino",
       "ocupacao": "engenheira"
@@ -81,16 +41,6 @@
       "nome": "Bruno Silva",
       "email": "bruno.silva@example.com",
       "telefone": "(99) 9999-5555",
-      "endereco": {
-        "logradouro": "Rua dos Coqueiros",
-        "numero": "654",
-        "complemento": "",
-        "bairro": "Jardim das Acácias",
-        "cidade": "Belo Horizonte",
-        "estado": "MG",
-        "pais": "Brasil",
-        "cep": "98765-432"
-      },
       "idade": 25,
       "genero": "masculino",
       "ocupacao": "engenheir0"
@@ -100,16 +50,6 @@
       "nome": "Lucas Pereira",
       "email": "lucas.pereira@example.com",
       "telefone": "(99) 9999-7777",
-      "endereco": {
-        "logradouro": "Avenida dos Pinheiros",
-        "numero": "369",
-        "complemento": "",
-        "bairro": "Jardim das Acácias",
-        "cidade": "Belo Horizonte",
-        "estado": "MG",
-        "pais": "Brasil",
-        "cep": "98765-432"
-      },
       "idade": 31,
       "genero": "masculino",
       "ocupacao": "programador"
@@ -119,16 +59,6 @@
       "nome": "Marina Costa",
       "email": "marina.costa@example.com",
       "telefone": "(99) 9999-8888",
-      "endereco": {
-        "logradouro": "Rua do Sol",
-        "numero": "753",
-        "complemento": "",
-        "bairro": "Centro",
-        "cidade": "Rio de Janeiro",
-        "estado": "RJ",
-        "pais": "Brasil",
-        "cep": "54321-876"
-      },
       "idade": 27,
       "genero": "feminino",
       "ocupacao": "designer"
@@ -137,16 +67,6 @@
       "nome": "Rafael Oliveira",
       "email": "rafael.oliveira@example.com.br",
       "telefone": "(99) 9999-9999",
-      "endereco": {
-        "logradouro": "Rua das Orquídeas",
-        "numero": "987",
-        "complemento": "Casa 2",
-        "bairro": "Jardim das Flores",
-        "cidade": "São Paulo",
-        "estado": "SP",
-        "pais": "Brasil",
-        "cep": "12345-678"
-      },
       "idade": 28,
       "genero": "masculino",
       "ocupacao": "advogado",
